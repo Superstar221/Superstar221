@@ -1,7 +1,7 @@
 
 
 
-# 🏆🏆🏆 Web Front-end and Back-end Developer 🏆🏆🏆
+# 🏆🏆🏆 Full stact Developer || Blockchain Developer 🏆🏆🏆
 
 I'm a developer who implements customers' ideas🧐🛰🚀.
 If you have any idea, contact me anytime, then you can get the better result that you imagined 😮.
