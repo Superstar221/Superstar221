@@ -6,7 +6,9 @@
 I'm a developer who implements customers' ideas🧐🛰🚀.
 
 If you have any idea, contact me anytime, then you can get the better result that you imagined 😮.
-For standing out 👍my Skills on the world and getting ⭐⭐⭐review🥇🥈🥉. I want to directly working with client and show my talent skills.
+
+For standing out 👍my Skills on the world and getting ⭐⭐⭐review🥇🥈🥉.
+I want to directly working with client and show my talent skills.
 I 💖love my all creations even if it's small and inconspicuous. So I give my whole 💖heart and soul for thems.
 
 You can contact me here.
