@@ -14,8 +14,8 @@ I want to directly working with client and show my talent skills.
 I 💖love my all creations even if it's small and inconspicuous. So I give my whole 💖heart and soul for thems.
 
 You can contact me here.
-##### skype.com: live:.cid.b0da9909f5fe8df4
-##### gmail address: top.developer0221@gmail.com
+##### skype.com: live:.cid.efc530b2a6763af5
+##### gmail address: top.developer0327@gmail.com
 
 # My Skills (I can help you in this follow fields)
 
