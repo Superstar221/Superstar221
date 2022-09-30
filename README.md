@@ -15,7 +15,7 @@ I 💖love my all creations even if it's small and inconspicuous. So I give my w
 
 You can contact me here.
 ##### skype.com: live:.cid.efc530b2a6763af5
-##### gmail address: top.developer0327@gmail.com
+##### gmail address: top.developer327@gmail.com
 
 # My Skills (I can help you in this follow fields)
 
