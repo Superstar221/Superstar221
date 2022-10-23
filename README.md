@@ -1,7 +1,7 @@
 
 
 
-# 🏆🏆🏆 Full stact Developer || Blockchain Developer 🏆🏆🏆
+# 🏆🏆🏆 Full stack Developer || Blockchain Developer 🏆🏆🏆
 
 I'm a developer who implements customers' ideas🧐🛰🚀.
 
