@@ -1,9 +1,4 @@
-
-
-
 #  Full stack Developer || Blockchain Developer 
-# My Skills (I can help you in this follow fields)
-
 <table align="center">
    <tr>
       <td align="center" width="96" height="96">
