@@ -163,7 +163,6 @@
 </table>
 
 <h1 align="center"># Blockchain </h1>
-#####
 ✅ Soalan & Cardano, Also Master of EVM
 ✅ Custom Blockchain Development
 ✅ NFT and IPFS Handling
