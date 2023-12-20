@@ -2,19 +2,6 @@
 
 
 #  Full stack Developer || Blockchain Developer 
-
-I'm a developer who implements customers' ideas🧐🛰🚀.
-
-If you have any idea, contact me anytime, then you can get the better result that you imagined 😮.
-
-For standing out 👍my Skills on the world and getting ⭐⭐⭐review🥇🥈🥉.
-
-I want to directly working with client and show my talent skills.
-
-I 💖love my all creations even if it's small and inconspicuous. So I give my whole 💖heart and soul for thems.
-
-You can contact me here.
-
 # My Skills (I can help you in this follow fields)
 
 <table align="center">
@@ -179,30 +166,6 @@ You can contact me here.
     </td>
   </tr>
 </table>
-# Development Skill Set
-
-### Correct logic and good communication lead to going successful!
-
-### Design
-
-##### ✅ Figma | ✅ Photoshop | ✅ XD...
-
-### Front development
-
-#### Web
-##### ✅ HTML, CSS, Bootstrap, JS, jQuery, TailwindCSS | ✅ React/Redux/Redux Saga/Next | ✅ Angular | ✅ Vue...
-
-#### Mobile
-##### ✅ Android Studio | ✅ Xcode | ✅ React Native | ✅ ionic | ✅ Fluter
-
-### Backend development
-
-##### ✅Node | ✅PHP : Laravel, Codeigniter | ✅Python : Django, Flask | ✅Java, Kotlin  | ✅C#, C++
-
-### Database development
-
-##### ✅ MySQL | ✅ MongoDB | ✅ Firebase | ✅ Ninox | ✅ MS Sever
-
 
 ### Blockchain
 
