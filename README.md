@@ -1,4 +1,4 @@
-<div align="center">#  Full stack Developer || Blockchain Developer </div>
+<h1 align="center">#  Full stack Developer || Blockchain Developer </h1>
 <table align="center">
    <tr>
       <td align="center" width="96" height="96">
